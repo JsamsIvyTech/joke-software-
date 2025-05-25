@@ -9,5 +9,4 @@ This is what I have so far...
 Info about the author:
 Hi, I'm jack. I'm a student at Ivy Tech Community College. 
 I am currently working on a certificate in software development.
-I am also trying to get some certificates from other sources, to,o like more into AI development
-
+I am also trying to get some certificates from other sources, too like more into AI development
