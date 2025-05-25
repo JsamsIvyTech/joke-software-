@@ -1,4 +1,4 @@
-# joke-software-
+# joke-GUI Tkinter-software-
 I'm working on this project that I wanted to fool people with. I want to make it seem like you're getting somewhere. But you are not.
 
 author: jrs
